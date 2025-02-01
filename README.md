@@ -4,7 +4,7 @@
 1. Клонировать репозиторий:
 
 ```
-https://github.com/Dimon4ik812/course_work_5
+https://github.com/Kruiser1917/course_work_5
 ```
 
 2. Установка зависимостей:
